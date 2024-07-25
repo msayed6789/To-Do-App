@@ -85,11 +85,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out:
 
-- *Email:* msayed6789@example.com
+- *Email:* mohamed.sayed.abdelrhman@gmail.com
 - *GitHub:* [msayed6789](https://github.com/msayed6789)
 
 Thank you for using the To-Do App! We hope it helps you stay organized and productive.
 
----
 
-Feel free to customize this README to better suit your project's needs!
