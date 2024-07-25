@@ -62,7 +62,7 @@ The To-Do App's user interface is designed with simplicity and user-friendliness
 <img src="https://github.com/msayed6789/To-Do-App/blob/main/Screenshots/Main%20Screen.png" width=100%>
 
 #### Add Task
-![Add Task](<img src="https://github.com/msayed6789/To-Do-App/blob/main/Screenshots/Main%20Screen.png" width=100%>)
+<img src="https://github.com/msayed6789/To-Do-App/blob/main/Screenshots/Main%20Screen.png" width=100%>
 
 #### Edit Task Status
 ![Edit Task](screenshots/edit_task.png)
