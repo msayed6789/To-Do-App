@@ -59,7 +59,7 @@ The To-Do App's user interface is designed with simplicity and user-friendliness
 ### Screenshots
 
 #### Main Screen
-![Main Screen](screenshots/main_screen.png)
+![Main Screen]([screenshots/main_screen.png](https://github.com/msayed6789/To-Do-App/blob/main/Screenshots/Main%20Screen.png))
 
 #### Add Task
 ![Add Task](screenshots/add_task.png)
