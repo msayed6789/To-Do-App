@@ -64,7 +64,7 @@ The To-Do App's user interface is designed with simplicity and user-friendliness
 #### Add Task
 ![Add Task](screenshots/add_task.png)
 
-#### Edit Task
+#### Edit Task Status
 ![Edit Task](screenshots/edit_task.png)
 
 ## Contributing
